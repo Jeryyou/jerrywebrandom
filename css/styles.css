@@ -1,0 +1,11 @@
+#services img{
+    height: 190px;
+   
+    
+   
+}
+.services{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
